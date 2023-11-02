@@ -4,7 +4,7 @@ The following table is based on the information from the [video](https://www.you
 
 | Section | Setting | Specific | Base Range | Setting Goal(s) & Tip(s)
 | --- | --- | --- | --- | --- |
-| [Tires](https://www.youtube.com/watch?v=UT-5Ewo6cpw&t=118s) | Tire Pressure | | 28 - 32 PSI (30.0)<br /> 1.93 - 2.20 Bar(2.06)  | Goal: Find optimal grip and adjust for steering balance
+| [Tires](https://www.youtube.com/watch?v=UT-5Ewo6cpw&t=118s) | Tire Pressure | | 28 - 32 PSI (30.0)<br /> 1.93 - 2.20 Bar (2.06)  | Goal: Find optimal grip and adjust for steering balance
 | | | | | Higher = More responsive, higher peak grip
 | | | | | Lower = Smoother loss of grip, can help with LMP cars
 | | | | | F↑R↓ = Oversteer
