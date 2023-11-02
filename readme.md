@@ -65,7 +65,7 @@ The following table is based on the information from the [video](https://www.you
 | | | | | Higher = More grip at speed
 | | | | | Lower = Less drag
 | | | | | Tip: FWD can usually run with minimum rear, RWD will be higher in most cases
-| [Brake](https://www.youtube.com/watch?v=UT-5Ewo6cpw&t=981s) | Force | | 70-40 (Base/Stock/50%) | Goal: Find a comfortable balance for corner entries
+| [Brake](https://www.youtube.com/watch?v=UT-5Ewo6cpw&t=981s) | Balance | | 70-40 (Base/Stock/50%) | Goal: Find a comfortable balance for corner entries
 | | | | | Front bias: understeer while braking
 | | | | | Rear bias: oversteer while braking
 | [Brake](https://www.youtube.com/watch?v=UT-5Ewo6cpw&t=981s) | Pressure | ABS ON | 100-200 (100%) | Goal: Find the highest setting you are comfortable with; make sure you can still lightly apply the brakes
